@@ -26,4 +26,4 @@ function data() {
 }
 data();
 
-setInterval(data, 50000);
+setInterval(data, 10800000);
